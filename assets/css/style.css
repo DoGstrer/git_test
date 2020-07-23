@@ -1,11 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=Roboto:ital@0;1&display=swap");
 html {
-  background-color: #2e2e2e;
+  background-color: #1a1a1a;
 }
 
 body {
   width: 50%;
   padding-left: 25%;
+  background-color: #1a1a1a;
 }
 
 h1 {
