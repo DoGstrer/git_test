@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="stylesheet.css">
-
 # Heading 1
 
 ---
@@ -30,5 +28,3 @@ r = requests.get(url)
 ```
 
 > BlockQuote
-
-If $x \in y$
