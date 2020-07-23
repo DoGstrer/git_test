@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=Roboto:ital@0;1&display=swap");
 html {
-  background-color: #1e1e1e;
+  background-color: #2e2e2e;
 }
 
 body {
@@ -39,9 +39,4 @@ code {
   font: 100% "Roboto", sans-serif;
   color: #afaf0f;
 }
-
-sourceCode {
-  color: #fff;
-}
-
 /*# sourceMappingURL=stylesheet.css.map */
