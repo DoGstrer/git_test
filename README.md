@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css">
 
-You can use the [editor on GitHub](https://github.com/DoGstrer/git_test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Heading 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Heading 2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Hello*\
+**Hello**\
+~~Hello~~\
+You should execute `Hello.rs`\
+\
+This is a general para , content of this para can be ignored or rather should be ignored. By reading this you are giving into the mayhem known as hopelessness. May you feel whole again!
 
-```markdown
-Syntax highlighted code block
+- Hello
+  - Why?
+- World
+- What?
 
-# Header 1
-## Header 2
-### Header 3
+[Link](https://www.google.com)\
+\
+<https://www.google.com>\
+\
+![alt-text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+import requests
+r = requests.get(url)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> BlockQuote
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DoGstrer/git_test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If $x \in y$
